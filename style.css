@@ -234,6 +234,7 @@ p, a{
     box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3);   
 }
 .qtxt{
+    width:100%:
     z-index:5;
     opacity:0;
 }
